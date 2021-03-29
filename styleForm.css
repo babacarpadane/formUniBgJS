@@ -1,0 +1,64 @@
+body {
+    background-image: url("C:/Users/Babacar/Desktop/ObjectmethodJS/form/background.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#demo {
+    background-color: rgb(255, 255, 255);
+    position: absolute; 
+    left: 50%;
+    margin-left: -135px;
+    /* top: 3.5%;
+    bottom: 3.5%; */
+    top: 35px;
+    width: 269px;
+    height: 607px;
+    -webkit-box-shadow: 11px 11px 18px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow: 11px 11px 18px 0px rgba(50, 50, 50, 0.75);
+    box-shadow: 11px 11px 18px 0px rgba(50, 50, 50, 0.75);
+}
+
+img {
+    width: 42%;
+    height: 42%;
+}
+
+#blocco {
+    position: absolute; 
+    left: 50%;
+    margin-left: -103px;
+    top: 35px;
+}
+
+#surname, #name, #serialNumber, #email, #tel {
+    width: 200px;
+    height: 25px;
+}
+
+#regions {
+    left: 100px;
+    top: 150px;
+    width: 208px; 
+    height: 34px;
+}
+
+#request {
+    left: 100px;
+    top: 150px;
+    align-items: center;
+    width: 200px;
+    height: 100px;
+}
+
+#bottone {
+    width: 90px;
+    height: 25px;
+}
+
+#divbutton {
+    position: absolute; 
+    left: 50%;
+    margin-left: -47px;
+    top: 600px;
+}
